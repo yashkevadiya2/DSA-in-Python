@@ -11,7 +11,7 @@ def  binary_search(list, num):
         else:
             u = mid -1 
 
-list=[20,25,66,100,525,365,900,1005]
+list=[20,25,66,100,525,365,900,1005] 
 
 num = 1005
 
