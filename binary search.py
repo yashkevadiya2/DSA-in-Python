@@ -17,7 +17,7 @@ num = 1005
 
 index = binary_search(list, num)
 
-print("the index of given number is:", index)
+print("Index of given number is:", index)
 
 
 
